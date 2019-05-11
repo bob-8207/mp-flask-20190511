@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="be19fa85-1957-4602-89b4-78ffcd972f6e" name="Flask-V1" url="http://192.168.1.221">
+        <fileTransfer host="192.168.1.221" port="10021" rootFolder="/usr/local/bin/flask" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="10021" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
